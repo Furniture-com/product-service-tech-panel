@@ -1,0 +1,20 @@
+# FdC Product Service
+
+## Dev Setup
+1. Install dependencies
+```
+pnpm i 
+```
+2. Spin up a local postgres database using the existing docker-compose file
+3. Run up migrations
+```
+pnpm migrate:up
+```
+4. Seed the database
+```
+pnpm run seed
+```
+5. Start the development server
+```
+pnpm run dev
+```

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Leather Recliner Sofa",
+    "description": "Luxury leather recliner with cup holders and adjustable headrest.",
+    "price": 799.99,
+    "category": "Sofas & Couches",
+    "stock": 10,
+    "imageUrl": "https://example.com/images/recliner-sofa.jpg",
+    "rating": 4.9
+  },
+  {
+    "id": 2,
+    "name": "Convertible Sofa Bed",
+    "description": "Space-saving sofa that converts into a bed, with storage compartment.",
+    "price": 699.99,
+    "category": "Sofas & Couches",
+    "stock": 8,
+    "imageUrl": "https://example.com/images/sofa-bed.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Queen Size Platform Bed",
+    "description": "Modern wooden platform bed frame with headboard.",
+    "price": 499.99,
+    "category": "Beds",
+    "stock": 15,
+    "imageUrl": "https://example.com/images/platform-bed.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Memory Foam Mattress",
+    "description": "Queen-size memory foam mattress with cooling gel technology.",
+    "price": 399.99,
+    "category": "Mattresses",
+    "stock": 20,
+    "imageUrl": "https://example.com/images/mattress.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "name": "Rustic Wooden Nightstand",
+    "description": "Handcrafted wooden nightstand with two spacious drawers.",
+    "price": 89.99,
+    "category": "Bedroom Furniture",
+    "stock": 30,
+    "imageUrl": "https://example.com/images/nightstand.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "name": "Glass Coffee Table",
+    "description": "Stylish glass coffee table with chrome legs.",
+    "price": 159.99,
+    "category": "Living Room Furniture",
+    "stock": 25,
+    "imageUrl": "https://example.com/images/coffee-table.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 7,
+    "name": "Velvet Accent Chair",
+    "description": "Elegant velvet armchair with gold legs, perfect for living rooms.",
+    "price": 249.99,
+    "category": "Decor",
+    "stock": 12,
+    "imageUrl": "https://example.com/images/accent-chair.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "name": "Wall Art Canvas Set",
+    "description": "3-piece modern abstract wall art set for home decor.",
+    "price": 79.99,
+    "category": "Decor",
+    "stock": 50,
+    "imageUrl": "https://example.com/images/wall-art.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 9,
+    "name": "Modern Bookshelf",
+    "description": "Tall wooden bookshelf with five open shelves and a cabinet.",
+    "price": 299.99,
+    "category": "Storage & Organization",
+    "stock": 18,
+    "imageUrl": "https://example.com/images/bookshelf.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 10,
+    "name": "Bar Stool Set",
+    "description": "Set of 2 adjustable-height bar stools with cushioned seats.",
+    "price": 129.99,
+    "category": "Dining Furniture",
+    "stock": 40,
+    "imageUrl": "https://example.com/images/bar-stools.jpg",
+    "rating": 4.6
+  }
+]
