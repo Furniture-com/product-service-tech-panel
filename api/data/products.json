@@ -6,8 +6,21 @@
     "price": 799.99,
     "category": "Sofas & Couches",
     "stock": 10,
-    "imageUrl": "https://example.com/images/recliner-sofa.jpg",
-    "rating": 4.9
+    "imageUrl": "https://images.unsplash.com/photo-1691480152351-4b3f2c89ccff?q=80&w=2500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.9,
+    "details": "This premium leather recliner features top-grain leather upholstery, power reclining mechanism, USB charging port, and built-in cup holders. The adjustable headrest and lumbar support ensure maximum comfort for extended periods.",
+    "dimensions": "38\"W x 40\"D x 42\"H",
+    "materials": "Top-grain leather, solid wood frame, high-density foam",
+    "features": [
+      "Power reclining mechanism",
+      "USB charging port",
+      "Built-in cup holders",
+      "Adjustable headrest",
+      "Lumbar support",
+      "Top-grain leather upholstery",
+      "Solid wood frame",
+      "5-year warranty"
+    ]
   },
   {
     "id": 2,
@@ -16,18 +29,42 @@
     "price": 699.99,
     "category": "Sofas & Couches",
     "stock": 8,
-    "imageUrl": "https://example.com/images/sofa-bed.jpg",
-    "rating": 4.8
+    "imageUrl": "https://images.unsplash.com/photo-1698936061086-2bf99c7b9fc5?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.8,
+    "details": "This versatile sofa bed transforms from a comfortable sofa to a full-size bed in seconds. The hidden storage compartment provides additional space for blankets, pillows, or other items.",
+    "dimensions": "84\"W x 38\"D x 34\"H (sofa), 84\"W x 76\"D x 16\"H (bed)",
+    "materials": "Fabric upholstery, solid wood frame, high-density foam",
+    "features": [
+      "Easy pull-out mechanism",
+      "Hidden storage compartment",
+      "Full-size bed when expanded",
+      "Comfortable seating when folded",
+      "Sturdy construction",
+      "Removable, washable cover",
+      "3-year warranty"
+    ]
   },
   {
     "id": 3,
-    "name": "Queen Size Platform Bed",
+    "name": "Queen Size Bed",
     "description": "Modern wooden platform bed frame with headboard.",
     "price": 499.99,
     "category": "Beds",
     "stock": 15,
-    "imageUrl": "https://example.com/images/platform-bed.jpg",
-    "rating": 4.7
+    "imageUrl": "https://images.unsplash.com/photo-1617325247661-675ab4b64ae2?q=80&w=3542&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.7,
+    "details": "This elegant queen-size platform bed features a modern design with a wooden headboard and sturdy construction. The low-profile design creates a clean, contemporary look in any bedroom.",
+    "dimensions": "63\"W x 83\"D x 14\"H",
+    "materials": "Solid pine wood, engineered wood, metal hardware",
+    "features": [
+      "Modern design",
+      "Wooden headboard",
+      "Low-profile platform",
+      "No box spring required",
+      "Easy assembly",
+      "Sturdy construction",
+      "5-year warranty"
+    ]
   },
   {
     "id": 4,
@@ -36,8 +73,20 @@
     "price": 399.99,
     "category": "Mattresses",
     "stock": 20,
-    "imageUrl": "https://example.com/images/mattress.jpg",
-    "rating": 4.8
+    "imageUrl": "https://images.unsplash.com/photo-1640003145136-f998284e11de?q=80&w=3544&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.8,
+    "details": "Experience ultimate comfort with this queen-size memory foam mattress. The cooling gel technology helps regulate temperature while you sleep, and the memory foam contours to your body for optimal support.",
+    "dimensions": "60\"W x 80\"D x 10\"H",
+    "materials": "Memory foam, cooling gel, hypoallergenic cover",
+    "features": [
+      "Cooling gel technology",
+      "Pressure-relieving memory foam",
+      "Hypoallergenic cover",
+      "Motion isolation",
+      "10-year warranty",
+      "100-night sleep trial",
+      "Free shipping"
+    ]
   },
   {
     "id": 5,
@@ -46,8 +95,19 @@
     "price": 89.99,
     "category": "Bedroom Furniture",
     "stock": 30,
-    "imageUrl": "https://example.com/images/nightstand.jpg",
-    "rating": 4.6
+    "imageUrl": "https://images.unsplash.com/photo-1593194632872-3d19dab6e278?q=80&w=3388&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.6,
+    "details": "This handcrafted wooden nightstand features a rustic design with two spacious drawers for storage. The solid wood construction ensures durability and longevity.",
+    "dimensions": "18\"W x 16\"D x 24\"H",
+    "materials": "Solid pine wood, metal hardware",
+    "features": [
+      "Handcrafted design",
+      "Two spacious drawers",
+      "Rustic finish",
+      "Solid wood construction",
+      "Easy assembly",
+      "1-year warranty"
+    ]
   },
   {
     "id": 6,
@@ -56,8 +116,19 @@
     "price": 159.99,
     "category": "Living Room Furniture",
     "stock": 25,
-    "imageUrl": "https://example.com/images/coffee-table.jpg",
-    "rating": 4.7
+    "imageUrl": "https://images.unsplash.com/photo-1647967527216-adea2f078e07?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.7,
+    "details": "This elegant glass coffee table features a tempered glass top with chrome legs. The modern design adds a touch of sophistication to any living room.",
+    "dimensions": "48\"W x 24\"D x 18\"H",
+    "materials": "Tempered glass, chrome metal",
+    "features": [
+      "Tempered glass top",
+      "Chrome legs",
+      "Modern design",
+      "Sturdy construction",
+      "Easy assembly",
+      "1-year warranty"
+    ]
   },
   {
     "id": 7,
@@ -66,8 +137,19 @@
     "price": 249.99,
     "category": "Decor",
     "stock": 12,
-    "imageUrl": "https://example.com/images/accent-chair.jpg",
-    "rating": 4.8
+    "imageUrl": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?q=80&w=3465&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.8,
+    "details": "This elegant velvet accent chair features a luxurious velvet upholstery with gold-finished legs. The comfortable design makes it perfect for reading corners or as a statement piece in your living room.",
+    "dimensions": "28\"W x 32\"D x 33\"H",
+    "materials": "Velvet upholstery, solid wood frame, gold-finished metal legs",
+    "features": [
+      "Luxurious velvet upholstery",
+      "Gold-finished legs",
+      "Comfortable design",
+      "Sturdy construction",
+      "Easy assembly",
+      "2-year warranty"
+    ]
   },
   {
     "id": 8,
@@ -76,8 +158,19 @@
     "price": 79.99,
     "category": "Decor",
     "stock": 50,
-    "imageUrl": "https://example.com/images/wall-art.jpg",
-    "rating": 4.5
+    "imageUrl": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.5,
+    "details": "This 3-piece modern abstract wall art set adds a touch of sophistication to any room. The high-quality canvas prints feature vibrant colors and contemporary designs.",
+    "dimensions": "3 pieces: 24\"W x 36\"H each",
+    "materials": "Canvas, wood frame",
+    "features": [
+      "3-piece set",
+      "High-quality canvas prints",
+      "Wooden frames",
+      "Ready to hang",
+      "Vibrant colors",
+      "1-year warranty"
+    ]
   },
   {
     "id": 9,
@@ -86,8 +179,19 @@
     "price": 299.99,
     "category": "Storage & Organization",
     "stock": 18,
-    "imageUrl": "https://example.com/images/bookshelf.jpg",
-    "rating": 4.7
+    "imageUrl": "https://images.unsplash.com/photo-1719310469053-8c5c0c6803d3?q=80&w=3432&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.7,
+    "details": "This modern bookshelf features five open shelves and a cabinet with doors. The versatile design provides ample storage space for books, decorative items, and more.",
+    "dimensions": "36\"W x 12\"D x 72\"H",
+    "materials": "Engineered wood, metal hardware",
+    "features": [
+      "Five open shelves",
+      "Cabinet with doors",
+      "Modern design",
+      "Sturdy construction",
+      "Easy assembly",
+      "2-year warranty"
+    ]
   },
   {
     "id": 10,
@@ -96,7 +200,18 @@
     "price": 129.99,
     "category": "Dining Furniture",
     "stock": 40,
-    "imageUrl": "https://example.com/images/bar-stools.jpg",
-    "rating": 4.6
+    "imageUrl": "https://images.unsplash.com/photo-1578854888566-a4fde9f0b0e9?q=80&w=3024&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.6,
+    "details": "This set of 2 bar stools features adjustable height and cushioned seats for comfort. The modern design adds a touch of sophistication to your kitchen or bar area.",
+    "dimensions": "18\"W x 18\"D x 30\"-36\"H (adjustable)",
+    "materials": "Metal frame, cushioned seat, faux leather upholstery",
+    "features": [
+      "Set of 2 stools",
+      "Adjustable height",
+      "Cushioned seats",
+      "Modern design",
+      "Sturdy construction",
+      "1-year warranty"
+    ]
   }
 ]

@@ -9,16 +9,29 @@ const seed = async () => {
   const pool = new Pool({ connectionString: process.env.DATABASE_URL })
 
   try {
-    const products = JSON.parse(readFileSync("./data/products.json"))
+    const products = JSON.parse(readFileSync("./data/products.json", "utf-8"))
     console.log(`Seeding the database with ${products.length} products...`)
 
     const client = await pool.connect()
 
     for (const product of products) {
       await client.query(
-        `INSERT INTO products (id, name, description, price, category, stock, image_url, rating)
-         VALUES ($1, $2, $3, $4, $5, $6, $7, $8)
-         ON CONFLICT (id) DO NOTHING;`,
+        `INSERT INTO products (
+          id,
+          name,
+          description,
+          price,
+          category,
+          stock,
+          image_url,
+          rating,
+          details,
+          dimensions,
+          materials,
+          features
+        )
+        VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12)
+        ON CONFLICT (id) DO NOTHING;`,
         [
           product.id,
           product.name,
@@ -28,6 +41,10 @@ const seed = async () => {
           product.stock,
           product.imageUrl,
           product.rating,
+          product.details,
+          product.dimensions,
+          product.materials,
+          JSON.stringify(product.features),
         ],
       )
     }
