@@ -4,7 +4,7 @@
 1. Run the development server by following the instructions in the README file
 2. Create a REST endpoint to fetch all products from the `products` table.
 3. Create a REST endpoint to fetch a product by id
-4. Now that the list of products grow we’d like to make product fetching more efficient. Add pagination to the REST endpoint in #3 using limit and offset query params
+4. Now that the list of products grow we’d like to make product fetching more efficient. Add pagination to the REST endpoint in #2 using limit and offset query params
 5. Implement sorting by price with `asc` being the default sort direction while making sure this will work with pagination (pagination combined with sorting)
 6. Add support for a category query param to fetch products within a category.
 7. Create a docker image of the existing API that can be pushed to AWS ECR
